@@ -1,0 +1,8 @@
+genotypename:    dataset_Dstat.ped
+snpname:         dataset_Dstat.map
+indivname:       dataset_Dstat.ped
+outputformat:    EIGENSTRAT
+genotypeoutname: dataset_Dstat.geno
+snpoutname:      dataset_Dstat.snp
+indivoutname:    dataset_Dstat.ind
+familynames:     NO
